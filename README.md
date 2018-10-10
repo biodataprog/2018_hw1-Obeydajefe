@@ -5,3 +5,5 @@ Solutions should be runnable by typing something like:
 ```shell
 $ bash solution1.sh
 ```
+
+I am adding a comment
