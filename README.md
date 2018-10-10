@@ -7,3 +7,4 @@ $ bash solution1.sh
 ```
 
 I am adding a comment
+I am testing a second commit
